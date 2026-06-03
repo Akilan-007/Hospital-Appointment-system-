@@ -17,6 +17,3 @@ The Smart Hospital Appointment Management System is a web-based application that
 - Backend: Java (JSP, Servlets)
 - Database: MySQL
 - Server: Apache Tomcat
-
-## Author
-Akilan V
