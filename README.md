@@ -1,8 +1,6 @@
 # Hospital-Appointment-system-
 # Smart Hospital Appointment Management System
 
-# Smart Hospital Appointment Management System
-
 ## Project Overview
 
 The Smart Hospital Appointment Management System is a web-based application developed to simplify the process of booking and managing hospital appointments. The system provides an efficient platform for patients, doctors, and administrators to interact and manage healthcare appointments digitally.
