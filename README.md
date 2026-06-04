@@ -1,23 +1,13 @@
 # Hospital-Appointment-system-
 # Smart Hospital Appointment Management System
 
-## Overview
-The Smart Hospital Appointment Management System is a web-based application that enables patients to book appointments with doctors online. It streamlines appointment scheduling and improves hospital efficiency.
-
-## Features
-- Patient Registration and Login
-- Doctor Management
-- Appointment Scheduling
-- Appointment Cancellation
-- Admin Dashboard
-- Patient Records Management
-
-## Technologies Used
-- Frontend: HTML, CSS, JavaScript, Bootstrap
-- Backend: Java (JSP, Servlets)
-- Database: MySQL
-- Server: Apache Tomcat
 # Smart Hospital Appointment Management System
+
+## Project Overview
+
+The Smart Hospital Appointment Management System is a web-based application developed to simplify the process of booking and managing hospital appointments. The system provides an efficient platform for patients, doctors, and administrators to interact and manage healthcare appointments digitally.
+
+Patients can book appointments online, doctors can manage their schedules, and administrators can oversee the entire appointment process. This system reduces manual paperwork, minimizes waiting times, and improves the overall efficiency of hospital operations.
 
 ---
 
@@ -191,12 +181,6 @@ http://localhost:8080/HospitalAppointmentSystem
 The Smart Hospital Appointment Management System provides a reliable and efficient solution for managing healthcare appointments digitally. It improves hospital workflow, enhances patient satisfaction, and demonstrates the practical implementation of web technologies in healthcare management.
 
 ---
-
-## Author
-
-**Akilan V**
-
-B.Sc Computer Science / Information Technology Student
 
 ---
 
