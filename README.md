@@ -185,3 +185,74 @@ The Smart Hospital Appointment Management System provides a reliable and efficie
 ## License
 
 This project is developed for educational and academic purposes.
+Users of the System
+1. Patient
+Register and log in
+Search for doctors
+View doctor availability
+Book appointments
+Cancel appointments
+View appointment history
+Manage profile
+2. Doctor
+Log in to the system
+View scheduled appointments
+Manage availability
+Update appointment status
+View patient details
+3. Administrator (Admin)
+Manage patients
+Manage doctors
+Manage appointments
+Manage departments
+Generate reports
+Monitor system activities
+Modules of the System
+1. Authentication Module
+User Registration
+User Login
+Password Management
+Role-Based Access Control
+2. Patient Management Module
+Patient Profile Management
+Patient Records
+Appointment History
+3. Doctor Management Module
+Add/Edit/Delete Doctor Details
+Manage Specializations
+Doctor Availability Management
+4. Appointment Management Module
+Appointment Booking
+Appointment Cancellation
+Appointment Rescheduling
+Appointment Status Tracking
+5. Department Management Module
+Add Departments
+Manage Specializations
+Assign Doctors to Departments
+6. Admin Dashboard Module
+User Management
+Doctor Management
+Appointment Monitoring
+System Reports
+7. Notification Module (Optional)
+Appointment Confirmation
+Appointment Reminder
+Cancellation Notifications
+8. Report Generation Module
+Daily Appointments Report
+Doctor-wise Report
+Patient-wise Report
+Hospital Statistics
+Module Hierarchy
+Plain text
+Hospital Appointment Management System
+│
+├── Authentication Module
+├── Patient Management Module
+├── Doctor Management Module
+├── Appointment Management Module
+├── Department Management Module
+├── Admin Dashboard Module
+├── Notification Module
+└── Report Generation Module
